@@ -35,7 +35,7 @@ Falls Sie die englische online Dokumentation stört und Sie nicht damit zurecht 
 
 
 ## Warum als git repository?
-Dies dient als gute Grundlage den Studenten git als auch die Auszeichnissprache [Markdown](https://guides.github.com/features/mastering-markdown/) näher zu bringen. Das Programm git kann als Revisionssystem übergreifend auch für andere Fächer wie beispielsweise Programmierung dienen und ermöglicht die Zusammenarbeit mit anderen Kommilitoten und Entwicklern weltweit.
+Dies dient als gute Grundlage den Studenten git als auch die Auszeichnugssprache [Markdown](https://guides.github.com/features/mastering-markdown/) näher zu bringen. Das Programm git kann als Revisionssystem übergreifend auch für andere Fächer wie beispielsweise Programmierung dienen und ermöglicht die Zusammenarbeit mit anderen Kommilitoten und Entwicklern weltweit.
 Es ist zu empfehlen einen eigenen Account auf [github.com](https://github.com) zu erstellen, dieses Projekt zu forken und seine eigenen Lösungen online zu stellen. Der Github-Account kann in späteren Bewerbungunterlagen als online Referenz angegeben werden um Unternehmen direkt vermitteln zu können, welche Kentnisse vorhanden sind. Dies sollte Sie von anderen Mitbewerbern hervorheben.
 
 ## Möglichkeiten
