@@ -9,7 +9,8 @@ Das Programm git kann über die offiziellen Paketquellen bezogen werden. Dazu re
 ```bash
 sudo apt-get update && \
 sudo apt-get dist-upgrade && \
-sudo apt-get install git```
+sudo apt-get install git
+```
 
 ### MacOS
 Für MacOS steht ein offizieller [https://git-scm.com/download/mac Download] auf [git-scm.com] bereit.
