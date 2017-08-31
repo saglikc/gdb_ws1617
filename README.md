@@ -13,7 +13,7 @@ sudo apt-get install git
 ```
 
 ### MacOS
-Für MacOS steht ein offizieller [https://git-scm.com/download/mac Download] auf [git-scm.com] bereit.
+Für MacOS steht ein offizieller [Download](https://git-scm.com/download/mac Download) auf [git-scm.com](https://git-scm.com) bereit.
 
 ### Windows
 Für Windows können die Binärdateien wie bei MacOS von der offiziellen Website [https://git-scm.com/download/win heruntergeladen] werden.
