@@ -10,54 +10,70 @@
 
 
 ### Aufgabe 1
-Welche Bücher (mit Titel und Erscheinungsjahr) wurden vom Heyne-Verlag herausgegeben?
-> Versuche mehr als einen Lösungsweg an zu wenden!
+Erfasse einen Ausleihvorgang für Marina Weller (Ausleihdatum heute – noch keine Rückgabe) mit der l_id (Primärschlüssel) 17. Sie leiht sich die Bücher „Der Schwarm“ und „Limit“.
 
-#### Lösungen
+#### Lösung
 ```sql
-Deine Lösungen
+Deine Lösung
 ```
 
 ### Aufgabe 2
-Welche Bücher (mit Titel und Erscheinungsjahr) wurden nicht von Verlegern aus Koeln herausgegeben?
-> Versuche mehr als einen Lösungsweg an zu wenden!
+Lösche den Kategorie-Eintrag „Kinderbuch“ in der Tabelle lib_category.
 
-#### Lösungen
+#### Lösung
 ```sql
-Deine Lösungen
+Deine Lösung
 ```
 
 ### Aufgabe 3
-Zu welchen Kategorien sind keine Bücher vorhanden?
+Welche Bücher (Titel und Erscheinungsjahr) wurden bisher noch nie ausgeliehen?
 
-#### Lösungen
+#### Lösung
 ```sql
-Deine Lösungen
+Deine Lösung
 ```
 
 ### Aufgabe 4
-  Ermittle alle Jahre, in denen Bücher erschienen sind.
+Ändere bei allen Büchern, die von „Heyne“ herausgegeben wurden, den Verleger in „Fischer“ um.
+> Versuche die Aufgabe mit mehr als einen Lösungsweg zu lösen!
 
-#### Lösungen
+#### Lösung
 ```sql
-Deine Lösungen
+Deine Lösung
 ```
 
 ### Aufgabe 5
-  Welche Bücher (Titel  und Erscheinungsjahr) wurden vom „Fischer“-Verlag herausgegeben oder gehören zur Kategorie „Fachbuch“?
-  > Versuche mehr als einen Lösungsweg an zu wenden!
+Gebe alle Bücher aus (Titel und Erscheinungsjahr), deren Titel an sechster Stelle einen Bindestrich beinhaltet.
+> Optional: Löse die Aufgabe auch mit Regulären Ausdrücken.
 
-#### Lösungen
+#### Lösung
 ```sql
-Deine Lösungen
+Deine Lösung
 ```
 
 ### Aufgabe 6
-  Welche Bücher (mit Titel und Erscheinungsjahr) wurden von einem Autor verfasst, dessen Nachname mit „F“ beginnt und mit „ein“ endet?  Achtung, es soll kein Buch mehrfach aufgelistet werden!
+Welche Personen (Vorname und Nachname) haben sich bisher das Buch „Investitionsrechnung“ ausgeliehen?
+> Versuche die Aufgabe mit mehr als einen Lösungsweg zu lösen!
 
-#### Lösungen
+#### Lösung
 ```sql
-Deine Lösungen
+Deine Lösung
 ```
+
+### Aufgabe 7
+Reduziere die Seitenzahl aller Bücher der Autoren mit dem Nachnamen „Feuerstein“ um 100.
+
+#### Lösung
+```sql
+Deine Lösung
+```
+
+
+
+
+
+
+
+
 
 
