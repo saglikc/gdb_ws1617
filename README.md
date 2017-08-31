@@ -16,15 +16,23 @@ sudo apt-get install git
 Für MacOS steht ein offizieller [Download](https://git-scm.com/download/mac) auf [git-scm.com](https://git-scm.com) bereit.
 
 ### Windows
-Für Windows können die Binärdateien wie bei MacOS von der offiziellen Website [https://git-scm.com/download/win heruntergeladen] werden.
+Für Windows können die Binärdateien wie bei MacOS von der offiziellen Website [heruntergeladen](https://git-scm.com/download/win) werden.
 
 ## Repository clonen
 Um das Repository zu klonen finden Sie auf der Projektseite einen HTTPS und SSH Link. Den Download des Projekts mit SSH können Sie insofern durchführen, wenn Sie einen SSH-Key in Ihren Profileinstellunges des Github-Accounts hinterlegt haben. Durch den SSH-Key werden Sie beim Authentifizieren gegenüber der Seite github.com nicht nach ihrem Benutzernamen und ihrem Passwort gefragt.
 
-Startet Sie die neu installierte git-bash und navigieren Sie in ein beliebiges Verzeichnis mittels ```cd``` um dort das repository herunter zu laden. Der Vorgang das git Repository zu klonen kann mittels ```git clone git@github.com:volker-raschek/grundlagen_datenbanken.git``` für SSH oder mittels ```git clone https://github.com/volker-raschek/grundlagen_datenbanken.git``` für HTTPS gestartet werden. Sie sollten nun ein Verzeichnis haben, dass ```grundlagen_datenbanken``` heißt und dem online repository entspricht. Sie können nun die Datei [./uebung.md uebung.md] öffnen um die Aufgaben zu bearbeiten.
+Startet Sie die neu installierte git-bash und navigieren Sie in ein beliebiges Verzeichnis mittels ```cd``` um dort das repository herunter zu laden. Der Vorgang das git Repository zu klonen kann mittels ```git clone git@github.com:volker-raschek/grundlagen_datenbanken.git``` für SSH oder mittels ```git clone https://github.com/volker-raschek/grundlagen_datenbanken.git``` für HTTPS gestartet werden. Sie sollten nun ein Verzeichnis haben, dass ```grundlagen_datenbanken``` heißt und dem online repository entspricht. Sie können nun die Datei [uebung.md](./uebung.md) öffnen um die Aufgaben zu bearbeiten.
 
 ## Wechseln in einen anderen branch
-Alle Aufgabenblätter sind in einem eigenen git branch hinterlegt und müssen ausgechekt werden. So können Sie mit dem Befehl ```git branch -a``` sich alle Branches anzeigen lassen und mit ```git checkout -b <name des branches>``` einen Branch zum ersten mal auschecken. Das erneute wechseln zwischen Brachnes erfolgt ohne die Option ```-b``` mit ```git checkout <name des branches>```
+Alle Aufgabenblätter sind in einem eigenen git branch hinterlegt und müssen ausgechekt werden. So können Sie mit dem Befehl ```git branch -a``` sich alle Branches anzeigen lassen und mit ```git checkout -b <name des branches>``` einen Branch zum ersten mal auschecken. Das erneute wechseln zwischen Brachnes erfolgt ohne die Option ```-b``` mit ```git checkout <name des branches>```. Die offizielle Dokumentation finden Sie auf [git-scm.com)(https://git-scm.com/docs). Es ist zu empfehlen sich folgende Grundbefehle für das Arbeiten mit git anzueignen.
+* [git status](https://git-scm.com/docs/git-status)
+* [git commit](https://git-scm.com/docs/git-commit)
+* [git branch](https://git-scm.com/docs/git-branch)
+* [git checkout](https://git-scm.com/docs/git-checkout)
+* [git log](https://git-scm.com/docs/git-log)
+
+Falls Sie die englische online Dokumentation stört und Sie nicht damit zurecht kommen, empfehle ich Ihnen das Buch Git von Valentin Haenel und Julius Plenz - ISBN 978-3-95539-119-5.
+
 
 ## Warum als git repository?
 Dies dient als gute Grundlage den Studenten git als auch die Auszeichnissprache Markdown näher zu bringen. Das Programm git kann als Revisionssystem übergreifend auch für andere Fächer wie beispielsweise Programmierung dienen und ermöglicht die Zusammenarbeit mit anderen Kommilitoten und Entwicklern.
