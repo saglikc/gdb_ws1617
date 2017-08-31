@@ -39,9 +39,9 @@ Dies dient als gute Grundlage den Studenten git als auch die Auszeichnissprache 
 Es ist zu empfehlen einen eigenen Account auf [github.com](https://github.com) zu erstellen, dieses Projekt zu forken und seine eigenen Lösungen online zu stellen. Der Github-Account kann in späteren Bewerbungunterlagen als online Referenz angegeben werden um Unternehmen direkt vermitteln zu können, welche Kentnisse vorhanden sind. Dies sollte Sie von anderen Mitbewerbern hervorheben.
 
 ## Möglichkeiten
-Einige Programmiersprachen oder Scriptsprachen die sich mit git visionieren lassen während des Studiums sind folgende:
+Einige Programmiersprachen oder Scriptsprachen die sich mit git versionieren lassen während des Studiums sind folgende:
 * java
-* Latex (.tex)
+* Latex (.tex) - Interessant für Seminar-, Bachelor- und Masterarbeiten
 * SQL-Dump (.sql)
 * R (.r)
 * HTML (.html)
