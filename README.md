@@ -19,12 +19,12 @@ Für MacOS steht ein offizieller [Download](https://git-scm.com/download/mac) au
 Für Windows können die Binärdateien wie bei MacOS von der offiziellen Website [heruntergeladen](https://git-scm.com/download/win) werden.
 
 ## Repository clonen
-Um das Repository zu klonen finden Sie auf der Projektseite einen HTTPS und SSH Link. Den Download des Projekts mit SSH können Sie insofern durchführen, wenn Sie einen SSH-Key in Ihren Profileinstellunges des Github-Accounts hinterlegt haben. Durch den SSH-Key werden Sie beim Authentifizieren gegenüber der Seite github.com nicht nach ihrem Benutzernamen und ihrem Passwort gefragt.
+Um das Repository zu klonen finden Sie auf der Projektseite einen HTTPS und SSH Link. Den Download des Projekts mit SSH können Sie insofern durchführen, wenn Sie einen Github-Account haben und einen SSH-Key in Ihren Profileinstellunges ihres Accounts hinterlegt haben. Durch den SSH-Key werden Sie beim Authentifizieren gegenüber der Seite [github.com](github.com) nicht nach ihrem Benutzernamen und ihrem Passwort gefragt.
 
-Startet Sie die neu installierte git-bash und navigieren Sie in ein beliebiges Verzeichnis mittels ```cd``` um dort das repository herunter zu laden. Der Vorgang das git Repository zu klonen kann mittels ```git clone git@github.com:volker-raschek/grundlagen_datenbanken.git``` für SSH oder mittels ```git clone https://github.com/volker-raschek/grundlagen_datenbanken.git``` für HTTPS gestartet werden. Sie sollten nun ein Verzeichnis haben, dass ```grundlagen_datenbanken``` heißt und dem online repository entspricht. Sie können nun die Datei [uebung.md](./uebung.md) öffnen um die Aufgaben zu bearbeiten.
+Startet Sie die neu installierte git-bash und navigieren Sie in ein beliebiges Verzeichnis mittels ```cd``` um dort das Repository herunter zu laden. Der Vorgang das git Repository zu klonen kann mittels ```git clone git@github.com:volker-raschek/grundlagen_datenbanken.git``` für SSH oder mittels ```git clone https://github.com/volker-raschek/grundlagen_datenbanken.git``` für HTTPS gestartet werden. Sie sollten nun ein Verzeichnis haben, dass ```grundlagen_datenbanken``` heißt und dem Online-Repository entspricht. Sie können nun die Datei [uebung.md](./uebung.md) öffnen um die Aufgaben zu bearbeiten.
 
 ## Wechseln in einen anderen branch
-Alle Aufgabenblätter sind in einem eigenen git branch hinterlegt und müssen ausgechekt werden. So können Sie mit dem Befehl ```git branch -a``` sich alle Branches anzeigen lassen und mit ```git checkout -b <name des branches>``` einen Branch zum ersten mal auschecken. Das erneute wechseln zwischen Brachnes erfolgt ohne die Option ```-b``` mit ```git checkout <name des branches>```. Die offizielle Dokumentation finden Sie auf [git-scm.com)(https://git-scm.com/docs). Es ist zu empfehlen sich folgende Grundbefehle für das Arbeiten mit git anzueignen.
+Alle Aufgabenblätter sind in einem eigenen git branch hinterlegt und müssen ausgechekt werden. So können Sie mit dem Befehl ```git branch -a``` sich alle Branches anzeigen lassen und mit ```git checkout -b <name des branches>``` einen Branch zum ersten mal auschecken. Das erneute wechseln zwischen Brachnes erfolgt ohne die Option ```-b``` mit ```git checkout <name des branches>```. Die offizielle Dokumentation finden Sie auf [git-scm.com](https://git-scm.com/docs). Es ist zu empfehlen sich folgende Grundbefehle für das Arbeiten mit git anzueignen.
 * [git status](https://git-scm.com/docs/git-status)
 * [git commit](https://git-scm.com/docs/git-commit)
 * [git branch](https://git-scm.com/docs/git-branch)
@@ -35,10 +35,11 @@ Falls Sie die englische online Dokumentation stört und Sie nicht damit zurecht 
 
 
 ## Warum als git repository?
-Dies dient als gute Grundlage den Studenten git als auch die Auszeichnissprache Markdown näher zu bringen. Das Programm git kann als Revisionssystem übergreifend auch für andere Fächer wie beispielsweise Programmierung dienen und ermöglicht die Zusammenarbeit mit anderen Kommilitoten und Entwicklern.
-Es ist zu empfehlen einen eigenen Account auf [github.com] zu erstellen, dieses Projekt zu forken und seine eigenen Lösungen online zu stellen. Der Github-Account kann in späteren Bewerbungunterlagen als online Referenz angegeben werden um Unternehmen direkt vermitteln zu können, welche Kentnisse vorhanden sind.
+Dies dient als gute Grundlage den Studenten git als auch die Auszeichnissprache [Markdown](https://guides.github.com/features/mastering-markdown/) näher zu bringen. Das Programm git kann als Revisionssystem übergreifend auch für andere Fächer wie beispielsweise Programmierung dienen und ermöglicht die Zusammenarbeit mit anderen Kommilitoten und Entwicklern weltweit.
+Es ist zu empfehlen einen eigenen Account auf [github.com](https://github.com) zu erstellen, dieses Projekt zu forken und seine eigenen Lösungen online zu stellen. Der Github-Account kann in späteren Bewerbungunterlagen als online Referenz angegeben werden um Unternehmen direkt vermitteln zu können, welche Kentnisse vorhanden sind. Dies sollte Sie von anderen Mitbewerbern hervorheben.
 
-## Einige Programmiersprachen oder Scriptsprachen die sich mit git visionieren lassen während des Studiums
+## Möglichkeiten
+Einige Programmiersprachen oder Scriptsprachen die sich mit git visionieren lassen während des Studiums sind folgende:
 * java
 * Latex (.tex)
 * SQL-Dump (.sql)
@@ -46,6 +47,7 @@ Es ist zu empfehlen einen eigenen Account auf [github.com] zu erstellen, dieses 
 * HTML (.html)
 * PHP (.php)
 
+Neben diesen Programmiersprachen ist git in der Entwicklungsumgebung [IDE Intellij](https://www.jetbrains.com/idea/) integriert. Studenten erhalten über Nachweis ihres Studentenausweises eine Ultimate Version.
 
 
 
