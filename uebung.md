@@ -2,8 +2,8 @@
 
 ## Vorbereitung
 
-* Für dieses Aufgabenblatt wird die SQL-Dump-Datei ```Tutorium_Book.sql``` benötigt
-* Die SQL-Dump Datei in SQL-PLUS mittels ```start <Dateipfad> ```  in Datenbank   importieren
+* Für dieses Aufgabenblatt wird die SQL-Dump-Datei ```Tutorium_Book.sql``` benötigt, die sich in dem Verzeichnis ```sql``` befindet
+* Die SQL-Dump Datei wird in SQL-PLUS mittels ```start <Dateipfad> ```  in Datenbank   importieren
 * Beispiele
 * Linux: ```start ~/Tutorium_Book.sql```
 * Windows: ```start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql```
