@@ -8,6 +8,8 @@
   * Linux: ```start ~/Tutorium_Book.sql```
   * Windows: ```start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql```
 
+### Datenbankmodell
+![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
 
 ### Aufgabe 1
 Erfasse einen Ausleihvorgang für Marina Weller (Ausleihdatum heute – noch keine Rückgabe) mit der l_id (Primärschlüssel) 17. Sie leiht sich die Bücher „Der Schwarm“ und „Limit“.
