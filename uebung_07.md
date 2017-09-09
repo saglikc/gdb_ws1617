@@ -8,9 +8,10 @@
   * Linux: `start ~/Tutorium_Book.sql`
   * Windows: `start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql`
 
-### Datenbankmodell
+## Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
 
+## Aufgaben
 
 ### Aufgabe 1
 Passe den Block so an, dass außerdem der Name des Kunden mit der ID `9` ausgegeben wird.
