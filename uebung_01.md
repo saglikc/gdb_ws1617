@@ -8,8 +8,11 @@
   * Linux: `start ~/Tutorium_Book.sql`
   * Windows: `start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql`
 
-### Datenbankmodell
+## Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
+
+## Aufgaben
+Zu diesen Aufgaben finden Sie im git repository ein [PDF-Dokument](./dml/Wiederholung_DML.pdf), dass ihnen die Data Manipulation Language (DML) erläutert.
 
 ### Aufgabe 1
 Welche Bücher (mit Titel und Erscheinungsjahr) wurden vom Heyne-Verlag herausgegeben?

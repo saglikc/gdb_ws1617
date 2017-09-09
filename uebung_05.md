@@ -13,11 +13,13 @@
 * NLS-Einstellungen, interessant füt Mac und Linux Benutzer - [datenbank-sql.de](http://www.datenbank-sql.de/nls.htm)
 * Reguläre Ausdrücke - [techonthenet.com](http://www.datenbank-sql.de/nls.htm)
 
-### Datenbankmodell
+## Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
 
-### Data-Dictionary-Views
+## Data-Dictionary-Views
 ![Data-Dictionary-Views](./img/Constraint_Schema.png)
+
+## Aufgaben
 
 ### Aufgabe 1
 Ermittle alle Constraints der Tabelle `lib_rental`. Beantworte dabei mithilfe von SQL-Statements folgende Fragen:

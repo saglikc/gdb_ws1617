@@ -8,9 +8,10 @@
   * Linux: `start ~/Tutorium_Book.sql`
   * Windows: `start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql`
 
-### Datenbankmodell
+## Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
 
+## Aufgaben
 
 ### Aufgabe 1
 Erstelle einen Wait-For-Graphen für die untenstehende Tabelle. Liegt hier zum Zeitpunkt `t31` eine Deadlock-Situation vor? Falls ja, kennzeichne den Deadlock im Graphen.

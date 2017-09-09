@@ -8,8 +8,11 @@
   * Linux: `start ~/Tutorium_Book.sql`
   * Windows: `start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql`
 
-### Datenbankmodell
+## Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
+
+## Aufgaben
+Zu diesen Aufgaben finden Sie im git repository ein [PDF-Dokument](./ddl/Wiederholung_DDL.pdf), dass ihnen die Data Definition Language (DDL) erläutert.
 
 ### Aufgabe 1
 Ermittle, warum du `INSERT`-Rechte auf die Tabelle `SCOTT.EMP` und `UPDATE`-Rechte auf die Tabelle `SCOTT.DEPT` besitzt.
@@ -93,3 +96,4 @@ Entziehe dem Nutzer Scott die Update-Rechte auf die Tabelle `lib_video`.
 ```sql
 Deine Lösung
 ```
+

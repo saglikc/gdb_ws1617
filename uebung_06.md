@@ -8,11 +8,13 @@
   * Linux: `start ~/Tutorium_Book.sql`
   * Windows: `start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql`
 
-### Datenbankmodell
+## Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
 
-### Data-Dictionary-Views
+## Data-Dictionary-Views
 ![Data-Dictionary-Views](./img/Constraint_Schema.png)
+
+## Aufgaben
 
 ### Aufgabe 1
 Welche Bücher (`title`, `year`) wurden von Verlegern herausgegeben, die mit `O` beginnen?

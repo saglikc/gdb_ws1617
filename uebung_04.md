@@ -8,8 +8,10 @@
   * Linux: `start ~/Tutorium_Book.sql`
   * Windows: `start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql`
 
-### Datenbankmodell
+## Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
+
+## Aufgaben
 
 ### Aufgabe 1
 An wie vielen Tagen wurden bisher Bücher ausgeliehen?
