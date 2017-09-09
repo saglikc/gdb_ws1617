@@ -1,6 +1,22 @@
 # Tutorium Grundlagen Datenbanken WS1617
 Dieses git repository beinhaltet alle Aufgaben des Tutoriums Grundlagen Datenbanken der Hochschule Trier für den Studiengang Wirtschaftsinformatik nach der PO2016.
-Die einzelnen Aufgabenblätter sind in dem git repository hinterlegt und steht den Studenten zur Verfügung. Anstatt die Aufgaben alle herunterzuladen ist es ratsam git auf den Heimrechner zu installieren, sich einen github Account anzulegen und das repository zu forken um Lösungen oder Verbesserungen der Aufgabenstellung an den Master-Branch weiterzuleiten.
+Die einzelnen Aufgabenblätter sind in dem git repository hinterlegt und steht den Studenten zur Verfügung. Anstatt die Aufgaben alle herunterzuladen ist es ratsam git auf den Heimrechner zu installieren, sich einen github Account anzulegen und das repository zu forken und zu klonen um Lösungen oder Verbesserungen der Aufgabenstellung an den Master-Branch weiterzuleiten.
+
+## Aufgaben
+* [Übung_01](./uebung_01.md)
+* [Übung_02](./uebung_02.md)
+* [Übung_03](./uebung_03.md)
+* [Übung_04](./uebung_04.md)
+* [Übung_05](./uebung_05.md)
+* [Übung_06](./uebung_06.md)
+* [Übung_07](./uebung_07.md)
+* [Übung_08](./uebung_08.md)
+* [Übung_09](./uebung_09.md)
+* [Übung_10](./uebung_10.md)
+* [Übung_11](./uebung_11.md)
+* [Übung_12](./uebung_12.md)
+* [Übung_13](./uebung_13.md)
+
 
 ## Installation
 ### Debin/Ubuntu/Linux Mint
