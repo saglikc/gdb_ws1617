@@ -1,4 +1,4 @@
-# Tutorium - Grundlagen Datenbanken - Blatt 2
+# Tutorium - Grundlagen Datenbanken - Blatt 10
 
 ## Vorbereitung
 
@@ -19,7 +19,7 @@ Erstelle einen Wait-For-Graphen für die untenstehende Tabelle. Liegt hier zum Z
 Hilfestellung:
 * Ein Shared Lock wird zum Lesen von Sätzen beantragt und verschiedene Transaktionen können sich diesen teilen.
 * Ein Exclusive Lock wird z.B. zum Ändern von Datensätzen beantragt, kann nicht geteilt werden und kann nicht vergeben werden, wenn eine andere Transaktion einen Shared Lock auf den Satz besitzt.
-* First come, first serve  Locks, die zuerst angefordert wurden, werden zuerst bearbeitet.
+* First come, first serve. Exclusive Locks, die zuerst angefordert wurden, werden zuerst bearbeitet.
 * Am Ende der Transaktion (Commit/Rollback) werden alle Locks freigegeben
 * Fetch(A): Shared-Lock wird für den Datensatz A angefordert.
 *  Update(B): Exclusive-Lock wird für den Datensatz B angefordert.
