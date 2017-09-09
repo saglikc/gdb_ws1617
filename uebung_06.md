@@ -2,11 +2,11 @@
 
 ## Vorbereitung
 
-* Für dieses Aufgabenblatt wird die SQL-Dump-Datei ```Tutorium_Book.sql``` benötigt, die sich in dem Verzeichnis ```sql``` befindet
-* Die SQL-Dump Datei wird in SQL-PLUS mittels ```start <Dateipfad> ```  in Datenbank   importieren
+* Für dieses Aufgabenblatt wird die SQL-Dump-Datei `Tutorium_Book.sql` benötigt, die sich in dem Verzeichnis `sql` befindet
+* Die SQL-Dump Datei wird in SQL-PLUS mittels `start <Dateipfad> ` in Datenbank importieren
 * Beispiele
-  * Linux: ```start ~/Tutorium_Book.sql```
-  * Windows: ```start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql```
+  * Linux: `start ~/Tutorium_Book.sql`
+  * Windows: `start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql`
 
 ### Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
@@ -48,7 +48,7 @@ Deine Lösung
 ```
 
 ### Aufgabe 5
-Lösche alle Städte (Einträge in der Tabelle lib_city), in denen kein Herausgeber ansässig ist.
+Lösche alle Städte (Einträge in der Tabelle `lib_city`), in denen kein Herausgeber ansässig ist.
 
 #### Lösung
 ```sql
@@ -56,7 +56,7 @@ Deine Lösung
 ```
 
 ### Aufgabe 6
-Ändere den Vornamen des Autors, der Limit verfasst hat, in „Peter“ um.
+Ändere den Vornamen des Autors, der `Limit` verfasst hat, in `Peter` um.
 
 #### Lösung
 ```sql
@@ -64,7 +64,7 @@ Deine Lösung
 ```
 
 ### Aufgabe 7
-Lege eine neue Tabelle lib_game für Videospiele an. Diese soll folgende Spalten haben:
+Lege eine neue Tabelle `lib_game` für Videospiele an. Diese soll folgende Spalten haben:
 * `g_id`: 4stellige ID
 * `g_name`: bis zu 30 Zeichen langer Name
 * `g_date`: Datum der Erstveröffentlichung

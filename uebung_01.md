@@ -2,11 +2,11 @@
 
 ## Vorbereitung
 
-* Für dieses Aufgabenblatt wird die SQL-Dump-Datei ```Tutorium_Book.sql``` benötigt, die sich in dem Verzeichnis ```sql``` befindet
-* Die SQL-Dump Datei wird in SQL-PLUS mittels ```start <Dateipfad> ```  in Datenbank   importieren
+* Für dieses Aufgabenblatt wird die SQL-Dump-Datei `Tutorium_Book.sql` benötigt, die sich in dem Verzeichnis `sql` befindet
+* Die SQL-Dump Datei wird in SQL-PLUS mittels `start <Dateipfad> ` in Datenbank importieren
 * Beispiele
-  * Linux: ```start ~/Tutorium_Book.sql```
-  * Windows: ```start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql```
+  * Linux: `start ~/Tutorium_Book.sql`
+  * Windows: `start C:\Users\max.mustermann\Desktop\Tutorium_Book.sql`
 
 ### Datenbankmodell
 ![Datenbankmodell](./img/Schema_mit_Beziehungen.png)
@@ -21,7 +21,7 @@ Deine Lösungen
 ```
 
 ### Aufgabe 2
-Welche Bücher (mit Titel und Erscheinungsjahr) wurden nicht von Verlegern aus Koeln herausgegeben?
+Welche Bücher (mit Titel und Erscheinungsjahr) wurden nicht von Verlegern aus Köln (`Koeln`) herausgegeben?
 > Versuche mehr als einen Lösungsweg an zu wenden!
 
 #### Lösungen
@@ -46,7 +46,7 @@ Deine Lösungen
 ```
 
 ### Aufgabe 5
-  Welche Bücher (Titel  und Erscheinungsjahr) wurden vom „Fischer“-Verlag herausgegeben oder gehören zur Kategorie „Fachbuch“?
+  Welche Bücher (Titel  und Erscheinungsjahr) wurden vom `Fischer`-Verlag herausgegeben oder gehören zur Kategorie `Fachbuch`?
   > Versuche mehr als einen Lösungsweg an zu wenden!
 
 #### Lösungen
@@ -55,7 +55,7 @@ Deine Lösungen
 ```
 
 ### Aufgabe 6
-  Welche Bücher (mit Titel und Erscheinungsjahr) wurden von einem Autor verfasst, dessen Nachname mit „F“ beginnt und mit „ein“ endet?  Achtung, es soll kein Buch mehrfach aufgelistet werden!
+  Welche Bücher (mit Titel und Erscheinungsjahr) wurden von einem Autor verfasst, dessen Nachname mit `F` beginnt und mit `ein` endet?  Achtung, es soll kein Buch mehrfach aufgelistet werden!
 
 #### Lösungen
 ```sql
