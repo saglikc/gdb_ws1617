@@ -20,3 +20,5 @@ BI (bzw. AI) steht für Before (bzw. After) Image. BOTx steht für Begin of Tran
 | Aktion    | BOT02 | UPD2: EMP   | BOT01 | BOT05 | INS1:DEPT                           | BOT04 |
 | BI        |       | 1:comm=100  |       |       |                                     |       |
 | AI        |       | 1:comm=NULL |       |       | 60:deptno=60,dname='sales',loc='NY' |       |
+| Zeitpunkt | 6     | 7           | 8     | 9     | 10                                  | 11    |
+| --------- | ----- | ----------- | ----- | ----- | ----------------------------------- | ----- |
