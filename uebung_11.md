@@ -32,3 +32,7 @@ BI (bzw. AI) steht für Before (bzw. After) Image. BOTx steht für Begin of Tran
 | Aktion    | INS3:EMP                    | BOT6  | UPD3:DEPT       | UPD5:EMP    | INS6:EMP                  |
 | BI        |                             |       | 20:loc='boston' | 10:sal=1900 | 12:empno=11, .., deptno20 |
 | AI        | 11:empno=10, .., deptno=30  |       | 20:loc='dallas' | 10:sal=2200 |                           |
+
+* Beschreibe was passiert, wenn zum Zeitpunkt 18 ein abnormales Ende der Transaktion 5 auftritt.
+* Beschreibe was passiert, wenn zum Zeitpunkt 18 ein SYSTEM CRASH auftritt.
+* Beschreibe was passiert, wenn zum Zeitpunkt 18 ein Media Failure auftritt?
